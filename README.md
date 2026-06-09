@@ -34,7 +34,7 @@ ParOuImpar/
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/Sebasduhg/par-ou-impar-java.git
+git clone https://github.com/Sebasduhg/Impar-ou-par.git
 ```
 
 ### 2. Entre na pasta do projeto
