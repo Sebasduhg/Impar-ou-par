@@ -40,7 +40,7 @@ git clone https://github.com/Sebasduhg/Impar-ou-par.git
 ### 2. Entre na pasta do projeto
 
 ```bash
-cd par-ou-impar-java
+cd Impar-ou-par
 ```
 
 ### 3. Compile o código
